@@ -7,7 +7,7 @@ designed. Please note this example uses and requires Java 8 to work..sd
 
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")..
 
-
+test
 Running the example from the command line
 -------------------
 ```
